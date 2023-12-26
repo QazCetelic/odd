@@ -1,4 +1,4 @@
-`odd` is a tool to analyze system errors across several boots.
+`odd` is a tool for Linux systems to analyze system errors across several boots.
 
 # Usage
 | Short option |      Long option      | Description                                                                                                                                                       |
